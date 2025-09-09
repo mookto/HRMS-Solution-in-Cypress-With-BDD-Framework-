@@ -1,9 +1,8 @@
 # ![HRMS solution](https://img.shields.io/badge/HRMS-Cypress%20BDD-blue?style=for-the-badge&logo=cypress)  
-# HRMS Solution in Cypress with BDD Framework
-
+# POM-Based-Cypress-Web-Applications
  ![Cypress Version](https://img.shields.io/badge/Cypress-15.0.0-green?style=for-the-badge) ![Node.js](https://img.shields.io/badge/Node.js-16.x-lightgrey?style=for-the-badge)  
 
-Welcome to the **SmartOffice Cypress BDD Automation Framework**, a robust end-to-end (E2E) testing solution built with **Cypress**, utilizing **BDD with Cucumber**, and following the **Page Object Model (POM)** design pattern.  
+Welcome to the **HRMS solution Cypress BDD Automation Framework**, a robust end-to-end (E2E) testing solution built with **Cypress**, utilizing **BDD with Cucumber**, and following the **Page Object Model (POM)** design pattern.  
 
 This framework automates the login and dashboard functionalities of the SmartOffice application.
 
