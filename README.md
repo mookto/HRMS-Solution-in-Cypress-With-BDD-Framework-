@@ -1,6 +1,8 @@
 # ![HRMS solution](https://img.shields.io/badge/HRMS-Cypress%20BDD-blue?style=for-the-badge&logo=cypress)  
-# POM-Based-Cypress-Web-Applications
- ![Cypress Version](https://img.shields.io/badge/Cypress-15.0.0-green?style=for-the-badge) ![Node.js](https://img.shields.io/badge/Node.js-16.x-lightgrey?style=for-the-badge)  
+# HRMS-Solution-in-Cypress-With-BDD-Framework-
+ ![Cypress Version](https://img.shields.io/badge/Cypress-15.0.0-green?style=for-the-badge) ![Node.js](https://img.shields.io/badge/Node.js-16.x-lightgrey?style=for-the-badge) ![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue?logo=visual-studio-code&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow?logo=javascript&logoColor=black)
+ 
 
 Welcome to the **HRMS solution Cypress BDD Automation Framework**, a robust end-to-end (E2E) testing solution built with **Cypress**, utilizing **BDD with Cucumber**, and following the **Page Object Model (POM)** design pattern.  
 
@@ -17,8 +19,6 @@ This framework automates the login and dashboard functionalities of the SmartOff
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
-- [Screenshots](#screenshots)
 
 ---
 
@@ -56,7 +56,7 @@ It tests the SmartOffice application's login process and dashboard features (pay
 
 
 # Clone the repository
-git clone https://github.com/your-username/smartoffice-cypress-bdd.git
+git clone https://github.com/mookto/HRMS-cypress-bdd.git
 cd smartoffice-cypress-bdd
 
 # Install dependencies
